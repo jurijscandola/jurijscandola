@@ -9,11 +9,11 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 
 ## 🚀 About Me
 
-- 🎓 Currently studying at **Politecnico di Milano**
-- 🧠 Interested in **Software Engineering**, **Cybersecurity**, and **Embedded Systems**
-- 🛠️ Past experience in **Backend development** (Java, Spring Boot, Maven, JPA)
-- 🤝 Open to collaborate on **Master thesis projects** (still to be defined)
-- 📸 Reach me on [Instagram](https://instagram.com/ju.rassico) or [LinkedIn](https://www.linkedin.com/in/jurij-diego-scandola-8b5754179/)
+- Currently studying at **Politecnico di Milano**
+- Interested in **Software Engineering**, **Cybersecurity**, and **Embedded Systems**
+- Past experience in **Backend development** (Java, Spring Boot, Maven, JPA)
+- Open to collaborate on **Master thesis projects** (still to be defined)
+- Reach me on [Instagram](https://instagram.com/ju.rassico) or [LinkedIn](https://www.linkedin.com/in/jurij-diego-scandola-8b5754179/)
 
 ---
 
