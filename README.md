@@ -63,7 +63,7 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 
 ---
 
-> “Always learning. Always building. Always curious.”
+> “Always trying to be the best version of myself.”
 <!---
 jurijscandola/jurijscandola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
