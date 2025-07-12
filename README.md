@@ -7,7 +7,7 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Currently studying at **Politecnico di Milano**
 - Interested in **Software Engineering**, **Cybersecurity**, and **Embedded Systems**
@@ -17,9 +17,9 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
-### 📍 Core Skills
+### Core Skills
 - **Java**, Spring Boot, JPA, Maven, Swing, Scene Builder
 - **Python** and its libraries
 - **C** and **C++**, also in embedded and Arduino contexts
@@ -29,7 +29,7 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 - **Linux** systems and **Bash** scripting
 - **Versioning & CI/CD**: Git, GitHub
 
-### 🎯 Academic Tools & Frameworks
+### Academic Tools & Frameworks
 
 | Triennale (Bachelor)          | Magistrale (Master)               |
 |-------------------------------|-----------------------------------|
@@ -43,7 +43,7 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 
 ---
 
-## 🛠️ Tools & Software I Use
+## Tools & Software I Use
 
 - **Visual Studio**, **IntelliJ**, **JetBrains Rider**
 - **Postman**, **Wireshark**, **OBS Studio**, **Photoshop**
