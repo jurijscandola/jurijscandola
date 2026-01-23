@@ -10,7 +10,7 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 ## About Me
 
 - Currently studying at **Politecnico di Milano**
-- Security Consultant @ BIP S.p.A. in Milan
+- Security Consultant / Penetration tester @ BIP S.p.A. in Milan
 - Interested in **Software Engineering**, **Cybersecurity**, and **Embedded Systems**
 - Past experience in **Backend development** (Java, Spring Boot, Maven, JPA)
 - Open to collaborate on **Master thesis projects** (still to be defined)
