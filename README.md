@@ -10,9 +10,9 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 ## About Me
 
 - Currently studying at **Politecnico di Milano**
-- Security Consultant / Penetration tester @ BIP S.p.A. in Milan
-- Interested in **Software Engineering**, **Cybersecurity**, and **Embedded Systems**
+- Interested in **Software Engineering** and **Cybersecurity**
 - Past experience in **Backend development** (Java, Spring Boot, Maven, JPA)
+- Past experience in **Penetration testing** and **Vulnerability Management** (Qualys, Nessus, Burpsuite)
 - Open to collaborate on **Master thesis projects** (still to be defined)
 - Reach me on [Instagram](https://instagram.com/ju.rassico) or [LinkedIn](https://www.linkedin.com/in/jurij-diego-scandola-8b5754179/)
 
@@ -47,7 +47,7 @@ I enjoy working in teams and consider myself a capable and supportive team leade
 ## Tools & Software I Use
 
 - **Visual Studio**, **IntelliJ**, **JetBrains Rider**
-- **Postman**, **Wireshark**, **OBS Studio**, **Photoshop**
+- **Burpsuite**, **Wireshark**
 - **SketchUp**, **Figma**, **Canva**
 - **Wokwi**, **KiCad**, **Unity**
 
